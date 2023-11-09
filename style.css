@@ -54,6 +54,8 @@ body, h1, h2, h3, p, ul, li {
     height: auto;
     display: block;
     margin: 0 auto; /* Centre les images horizontalement */
+    float: left;
+   
     }
     /* Pied de page */
     footer {
